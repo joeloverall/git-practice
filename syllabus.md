@@ -6,6 +6,6 @@ Professor: Joel Overall
 Time: MWF 1-1:50  
 Office: JAAC 3041  
 ## Readings  
-- Rhetorical Listening
-- Digital Griots
-- The Rhetoric of Cool
+- Rhetorical Listening by 
+- Digital Griots by Adam Banks
+- The Rhetoric of Cool by Jeff Rice
